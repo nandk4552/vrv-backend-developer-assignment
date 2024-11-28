@@ -1,0 +1,28 @@
+{
+  "name": "vrv-backend-developer-by-nandkishore",
+  "version": "1.0.0",
+  "description": "VRV Security Backend Developer Assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mongodb",
+    "vrv",
+    "backend",
+    "assignment",
+    "nandkishore"
+  ],
+  "author": "NAND KISHORE",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7"
+  }
+}
