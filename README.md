@@ -4,7 +4,7 @@ This project implements **Role-Based Access Control (RBAC)** with features like 
 
 Deployed Server Link: https://rbac-sigma-six.vercel.app/
 
-PostMan API (ask for permission): [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/21207467-6ce976f3-4ef1-4655-bf0f-78ce9dbd58b4?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D21207467-6ce976f3-4ef1-4655-bf0f-78ce9dbd58b4%26entityType%3Dcollection%26workspaceId%3D9ef17f9e-101a-4a42-94c7-3b7b22c9900d)
+PostMan API's (ask for permission): https://elements.getpostman.com/redirect?entityId=21207467-1ffd8233-fc59-43c3-a15c-9c7d3a33e499&entityType=collection
 ---
 
 ## **Setup Instructions**
