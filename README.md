@@ -2,6 +2,9 @@
 
 This project implements **Role-Based Access Control (RBAC)** with features like user registration, email verification via OTP, login, and role-specific functionalities for Admins, Users, and Moderators.
 
+Deployed Server Link: https://rbac-sigma-six.vercel.app/
+
+PostMan API (ask for permission): [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/21207467-6ce976f3-4ef1-4655-bf0f-78ce9dbd58b4?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D21207467-6ce976f3-4ef1-4655-bf0f-78ce9dbd58b4%26entityType%3Dcollection%26workspaceId%3D9ef17f9e-101a-4a42-94c7-3b7b22c9900d)
 ---
 
 ## **Setup Instructions**
@@ -57,8 +60,8 @@ PASSWORD= gmail app password for enabling the smptp services
 npm start or npm run dev 
 ```
 
-Server will run at: [http://localhost:8080](http://localhost:8080)
-
+Server will run on local machine at: [http://localhost:8080](http://localhost:8080)
+Server will run on deployed machine: [https://rbac-sigma-six.vercel.app](https://rbac-sigma-six.vercel.app)
 ---
 
 ## **API Endpoints**
